@@ -1,0 +1,21 @@
+:root {
+    --primary-color: #622ae8;
+    --light-color: #eeeeee;
+    --dark-color: #0f0e0e;
+
+    --title-font: normal 600 1.25em / normal Montserrat, sans-serif;
+    --text-font: normal 500 1em / normal Montserrat, sans-serif;
+    --legend-font: normal 400 0.75em / normal Montserrat, sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+
+    button {
+        all: unset;
+    }
+}

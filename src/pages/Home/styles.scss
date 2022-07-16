@@ -1,0 +1,15 @@
+.products-container {
+    width: min(100%, 75rem);
+    height: auto;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+.list {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}
